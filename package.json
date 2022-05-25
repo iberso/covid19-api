@@ -1,0 +1,17 @@
+{
+    "name": "cekkasur",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gateaway.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Iverson",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.0",
+        "cheerio": "^1.0.0-rc.10",
+        "express": "^4.17.2",
+        "jsdom": "^19.0.0"
+    }
+}

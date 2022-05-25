@@ -1,0 +1,2264 @@
+{
+    "result": [
+        {
+            "nama_provinsi": "ACEH",
+            "id_provinsi": "11prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "1101",
+                    "nama_kabkota": "Simeulue"
+                },
+                {
+                    "id_kabkota": "1102",
+                    "nama_kabkota": "Aceh Singkil"
+                },
+                {
+                    "id_kabkota": "1103",
+                    "nama_kabkota": "Aceh Selatan"
+                },
+                {
+                    "id_kabkota": "1104",
+                    "nama_kabkota": "Aceh Tenggara"
+                },
+                {
+                    "id_kabkota": "1105",
+                    "nama_kabkota": "Aceh Timur"
+                },
+                {
+                    "id_kabkota": "1106",
+                    "nama_kabkota": "Aceh Tengah"
+                },
+                {
+                    "id_kabkota": "1107",
+                    "nama_kabkota": "Aceh Barat"
+                },
+                {
+                    "id_kabkota": "1108",
+                    "nama_kabkota": "Aceh Besar"
+                },
+                {
+                    "id_kabkota": "1109",
+                    "nama_kabkota": "Pidie"
+                },
+                {
+                    "id_kabkota": "1110",
+                    "nama_kabkota": "Bireuen"
+                },
+                {
+                    "id_kabkota": "1111",
+                    "nama_kabkota": "Aceh Utara"
+                },
+                {
+                    "id_kabkota": "1112",
+                    "nama_kabkota": "Aceh Barat Daya"
+                },
+                {
+                    "id_kabkota": "1113",
+                    "nama_kabkota": "Gayo Lues"
+                },
+                {
+                    "id_kabkota": "1114",
+                    "nama_kabkota": "Aceh Tamiang"
+                },
+                {
+                    "id_kabkota": "1115",
+                    "nama_kabkota": "Nagan Raya"
+                },
+                {
+                    "id_kabkota": "1116",
+                    "nama_kabkota": "Aceh Jaya"
+                },
+                {
+                    "id_kabkota": "1117",
+                    "nama_kabkota": "Bener Meriah"
+                },
+                {
+                    "id_kabkota": "1118",
+                    "nama_kabkota": "Pidie Jaya"
+                },
+                {
+                    "id_kabkota": "1171",
+                    "nama_kabkota": "Kota Banda Aceh"
+                },
+                {
+                    "id_kabkota": "1172",
+                    "nama_kabkota": "Kota Sabang"
+                },
+                {
+                    "id_kabkota": "1173",
+                    "nama_kabkota": "Kota Langsa"
+                },
+                {
+                    "id_kabkota": "1174",
+                    "nama_kabkota": "Kota Lhokseumawe"
+                },
+                {
+                    "id_kabkota": "1175",
+                    "nama_kabkota": "Kota Subulussalam"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "SUMATERA UTARA",
+            "id_provinsi": "12prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "1201",
+                    "nama_kabkota": "Nias"
+                },
+                {
+                    "id_kabkota": "1202",
+                    "nama_kabkota": "Mandailing Natal"
+                },
+                {
+                    "id_kabkota": "1203",
+                    "nama_kabkota": "Tapanuli Selatan"
+                },
+                {
+                    "id_kabkota": "1204",
+                    "nama_kabkota": "Tapanuli Tengah"
+                },
+                {
+                    "id_kabkota": "1205",
+                    "nama_kabkota": "Tapanuli Utara"
+                },
+                {
+                    "id_kabkota": "1206",
+                    "nama_kabkota": "Toba Samosir"
+                },
+                {
+                    "id_kabkota": "1207",
+                    "nama_kabkota": "Labuhan Batu"
+                },
+                {
+                    "id_kabkota": "1208",
+                    "nama_kabkota": "Asahan"
+                },
+                {
+                    "id_kabkota": "1209",
+                    "nama_kabkota": "Simalungun"
+                },
+                {
+                    "id_kabkota": "1210",
+                    "nama_kabkota": "Dairi"
+                },
+                {
+                    "id_kabkota": "1211",
+                    "nama_kabkota": "Karo"
+                },
+                {
+                    "id_kabkota": "1212",
+                    "nama_kabkota": "Deli Serdang"
+                },
+                {
+                    "id_kabkota": "1213",
+                    "nama_kabkota": "Langkat"
+                },
+                {
+                    "id_kabkota": "1214",
+                    "nama_kabkota": "Nias Selatan"
+                },
+                {
+                    "id_kabkota": "1215",
+                    "nama_kabkota": "Humbang Hasundutan"
+                },
+                {
+                    "id_kabkota": "1216",
+                    "nama_kabkota": "Pakpak Bharat"
+                },
+                {
+                    "id_kabkota": "1217",
+                    "nama_kabkota": "Samosir"
+                },
+                {
+                    "id_kabkota": "1218",
+                    "nama_kabkota": "Serdang Bedagai"
+                },
+                {
+                    "id_kabkota": "1219",
+                    "nama_kabkota": "Batu Bara"
+                },
+                {
+                    "id_kabkota": "1220",
+                    "nama_kabkota": "Padang Lawas Utara"
+                },
+                {
+                    "id_kabkota": "1221",
+                    "nama_kabkota": "Padang Lawas"
+                },
+                {
+                    "id_kabkota": "1222",
+                    "nama_kabkota": "Labuhan Batu Selatan"
+                },
+                {
+                    "id_kabkota": "1223",
+                    "nama_kabkota": "Labuhan Batu Utara"
+                },
+                {
+                    "id_kabkota": "1224",
+                    "nama_kabkota": "Nias Utara"
+                },
+                {
+                    "id_kabkota": "1225",
+                    "nama_kabkota": "Nias Barat"
+                },
+                {
+                    "id_kabkota": "1271",
+                    "nama_kabkota": "Kota Sibolga"
+                },
+                {
+                    "id_kabkota": "1272",
+                    "nama_kabkota": "Kota Tanjung Balai"
+                },
+                {
+                    "id_kabkota": "1273",
+                    "nama_kabkota": "Kota Pematang Siantar"
+                },
+                {
+                    "id_kabkota": "1274",
+                    "nama_kabkota": "Kota Tebing Tinggi"
+                },
+                {
+                    "id_kabkota": "1275",
+                    "nama_kabkota": "Kota Medan"
+                },
+                {
+                    "id_kabkota": "1276",
+                    "nama_kabkota": "Kota Binjai"
+                },
+                {
+                    "id_kabkota": "1277",
+                    "nama_kabkota": "Kota Padang Sidempuan"
+                },
+                {
+                    "id_kabkota": "1278",
+                    "nama_kabkota": "Kota Gunungsitoli"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "SUMATERA BARAT",
+            "id_provinsi": "13prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "1301",
+                    "nama_kabkota": "Kepulauan Mentawai"
+                },
+                {
+                    "id_kabkota": "1302",
+                    "nama_kabkota": "Pesisir Selatan"
+                },
+                {
+                    "id_kabkota": "1303",
+                    "nama_kabkota": "Solok"
+                },
+                {
+                    "id_kabkota": "1304",
+                    "nama_kabkota": "Sijunjung"
+                },
+                {
+                    "id_kabkota": "1305",
+                    "nama_kabkota": "Tanah Datar"
+                },
+                {
+                    "id_kabkota": "1306",
+                    "nama_kabkota": "Padang Pariaman"
+                },
+                {
+                    "id_kabkota": "1307",
+                    "nama_kabkota": "Agam"
+                },
+                {
+                    "id_kabkota": "1308",
+                    "nama_kabkota": "Lima Puluh Kota"
+                },
+                {
+                    "id_kabkota": "1309",
+                    "nama_kabkota": "Pasaman"
+                },
+                {
+                    "id_kabkota": "1310",
+                    "nama_kabkota": "Solok Selatan"
+                },
+                {
+                    "id_kabkota": "1311",
+                    "nama_kabkota": "Dharmasraya"
+                },
+                {
+                    "id_kabkota": "1312",
+                    "nama_kabkota": "Pasaman Barat"
+                },
+                {
+                    "id_kabkota": "1371",
+                    "nama_kabkota": "Kota Padang"
+                },
+                {
+                    "id_kabkota": "1372",
+                    "nama_kabkota": "Kota Solok"
+                },
+                {
+                    "id_kabkota": "1373",
+                    "nama_kabkota": "Kota Sawah Lunto"
+                },
+                {
+                    "id_kabkota": "1374",
+                    "nama_kabkota": "Kota Padang Panjang"
+                },
+                {
+                    "id_kabkota": "1375",
+                    "nama_kabkota": "Kota Bukittinggi"
+                },
+                {
+                    "id_kabkota": "1376",
+                    "nama_kabkota": "Kota Payakumbuh"
+                },
+                {
+                    "id_kabkota": "1377",
+                    "nama_kabkota": "Kota Pariaman"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "R I A U",
+            "id_provinsi": "14prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "1401",
+                    "nama_kabkota": "Kuantan Singingi"
+                },
+                {
+                    "id_kabkota": "1402",
+                    "nama_kabkota": "Indragiri Hulu"
+                },
+                {
+                    "id_kabkota": "1403",
+                    "nama_kabkota": "Indragiri Hilir"
+                },
+                {
+                    "id_kabkota": "1404",
+                    "nama_kabkota": "Pelalawan"
+                },
+                {
+                    "id_kabkota": "1405",
+                    "nama_kabkota": "Siak"
+                },
+                {
+                    "id_kabkota": "1406",
+                    "nama_kabkota": "Kampar"
+                },
+                {
+                    "id_kabkota": "1407",
+                    "nama_kabkota": "Rokan Hulu"
+                },
+                {
+                    "id_kabkota": "1408",
+                    "nama_kabkota": "Bengkalis"
+                },
+                {
+                    "id_kabkota": "1409",
+                    "nama_kabkota": "Rokan Hilir"
+                },
+                {
+                    "id_kabkota": "1410",
+                    "nama_kabkota": "Kepulauan Meranti"
+                },
+                {
+                    "id_kabkota": "1471",
+                    "nama_kabkota": "Kota Pekanbaru"
+                },
+                {
+                    "id_kabkota": "1473",
+                    "nama_kabkota": "Kota Dumai"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "JAMBI",
+            "id_provinsi": "15prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "1501",
+                    "nama_kabkota": "Kerinci"
+                },
+                {
+                    "id_kabkota": "1502",
+                    "nama_kabkota": "Merangin"
+                },
+                {
+                    "id_kabkota": "1503",
+                    "nama_kabkota": "Sarolangun"
+                },
+                {
+                    "id_kabkota": "1504",
+                    "nama_kabkota": "Batang Hari"
+                },
+                {
+                    "id_kabkota": "1505",
+                    "nama_kabkota": "Muaro Jambi"
+                },
+                {
+                    "id_kabkota": "1506",
+                    "nama_kabkota": "Tanjung Jabung Timur"
+                },
+                {
+                    "id_kabkota": "1507",
+                    "nama_kabkota": "Tanjung Jabung Barat"
+                },
+                {
+                    "id_kabkota": "1508",
+                    "nama_kabkota": "Tebo"
+                },
+                {
+                    "id_kabkota": "1509",
+                    "nama_kabkota": "Bungo"
+                },
+                {
+                    "id_kabkota": "1571",
+                    "nama_kabkota": "Kota Jambi"
+                },
+                {
+                    "id_kabkota": "1572",
+                    "nama_kabkota": "Kota Sungai penuh"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "SUMATERA SELATAN",
+            "id_provinsi": "16prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "1601",
+                    "nama_kabkota": "Ogan Komering Ulu"
+                },
+                {
+                    "id_kabkota": "1602",
+                    "nama_kabkota": "Ogan Komering Ilir"
+                },
+                {
+                    "id_kabkota": "1603",
+                    "nama_kabkota": "Muara Enim"
+                },
+                {
+                    "id_kabkota": "1604",
+                    "nama_kabkota": "Lahat"
+                },
+                {
+                    "id_kabkota": "1605",
+                    "nama_kabkota": "Musi Rawas"
+                },
+                {
+                    "id_kabkota": "1606",
+                    "nama_kabkota": "Musi Banyuasin"
+                },
+                {
+                    "id_kabkota": "1607",
+                    "nama_kabkota": "Banyuasin"
+                },
+                {
+                    "id_kabkota": "1608",
+                    "nama_kabkota": "Ogan Komering Ulu Selatan"
+                },
+                {
+                    "id_kabkota": "1609",
+                    "nama_kabkota": "Ogan Komering Ulu Timur"
+                },
+                {
+                    "id_kabkota": "1610",
+                    "nama_kabkota": "Ogan Ilir"
+                },
+                {
+                    "id_kabkota": "1611",
+                    "nama_kabkota": "Empat Lawang"
+                },
+                {
+                    "id_kabkota": "1612",
+                    "nama_kabkota": "Penukal Abab Lematang Ilir"
+                },
+                {
+                    "id_kabkota": "1613",
+                    "nama_kabkota": "Musi Rawas Utara"
+                },
+                {
+                    "id_kabkota": "1671",
+                    "nama_kabkota": "Kota Palembang"
+                },
+                {
+                    "id_kabkota": "1672",
+                    "nama_kabkota": "Kota Prabumulih"
+                },
+                {
+                    "id_kabkota": "1673",
+                    "nama_kabkota": "Kota Pagar Alam"
+                },
+                {
+                    "id_kabkota": "1674",
+                    "nama_kabkota": "Kota Lubuk Linggau"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "BENGKULU",
+            "id_provinsi": "17prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "1701",
+                    "nama_kabkota": "Bengkulu Selatan"
+                },
+                {
+                    "id_kabkota": "1702",
+                    "nama_kabkota": "Rejang Lebong"
+                },
+                {
+                    "id_kabkota": "1703",
+                    "nama_kabkota": "Bengkulu Utara"
+                },
+                {
+                    "id_kabkota": "1704",
+                    "nama_kabkota": "Kaur"
+                },
+                {
+                    "id_kabkota": "1705",
+                    "nama_kabkota": "Seluma"
+                },
+                {
+                    "id_kabkota": "1706",
+                    "nama_kabkota": "Muko Muko"
+                },
+                {
+                    "id_kabkota": "1707",
+                    "nama_kabkota": "Lebong"
+                },
+                {
+                    "id_kabkota": "1708",
+                    "nama_kabkota": "Kepahiang"
+                },
+                {
+                    "id_kabkota": "1709",
+                    "nama_kabkota": "Bengkulu Tengah"
+                },
+                {
+                    "id_kabkota": "1771",
+                    "nama_kabkota": "Kota Bengkulu"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "LAMPUNG",
+            "id_provinsi": "18prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "1801",
+                    "nama_kabkota": "Lampung Barat"
+                },
+                {
+                    "id_kabkota": "1802",
+                    "nama_kabkota": "Tanggamus"
+                },
+                {
+                    "id_kabkota": "1803",
+                    "nama_kabkota": "Lampung Selatan"
+                },
+                {
+                    "id_kabkota": "1804",
+                    "nama_kabkota": "Lampung Timur"
+                },
+                {
+                    "id_kabkota": "1805",
+                    "nama_kabkota": "Lampung Tengah"
+                },
+                {
+                    "id_kabkota": "1806",
+                    "nama_kabkota": "Lampung Utara"
+                },
+                {
+                    "id_kabkota": "1807",
+                    "nama_kabkota": "Way Kanan"
+                },
+                {
+                    "id_kabkota": "1808",
+                    "nama_kabkota": "Tulang Bawang"
+                },
+                {
+                    "id_kabkota": "1809",
+                    "nama_kabkota": "Pesawaran"
+                },
+                {
+                    "id_kabkota": "1810",
+                    "nama_kabkota": "Pringsewu"
+                },
+                {
+                    "id_kabkota": "1811",
+                    "nama_kabkota": "Mesuji"
+                },
+                {
+                    "id_kabkota": "1812",
+                    "nama_kabkota": "Tulang Bawang Barat"
+                },
+                {
+                    "id_kabkota": "1813",
+                    "nama_kabkota": "Pesisir Barat"
+                },
+                {
+                    "id_kabkota": "1871",
+                    "nama_kabkota": "Kota Bandar Lampung"
+                },
+                {
+                    "id_kabkota": "1872",
+                    "nama_kabkota": "Kota Metro"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
+            "id_provinsi": "19prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "1901",
+                    "nama_kabkota": "Bangka"
+                },
+                {
+                    "id_kabkota": "1902",
+                    "nama_kabkota": "Belitung"
+                },
+                {
+                    "id_kabkota": "1903",
+                    "nama_kabkota": "Bangka Barat"
+                },
+                {
+                    "id_kabkota": "1904",
+                    "nama_kabkota": "Bangka Tengah"
+                },
+                {
+                    "id_kabkota": "1905",
+                    "nama_kabkota": "Bangka Selatan"
+                },
+                {
+                    "id_kabkota": "1906",
+                    "nama_kabkota": "Belitung Timur"
+                },
+                {
+                    "id_kabkota": "1971",
+                    "nama_kabkota": "Kota Pangkal Pinang"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "KEPULAUAN RIAU",
+            "id_provinsi": "20prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "2101",
+                    "nama_kabkota": "Karimun"
+                },
+                {
+                    "id_kabkota": "2102",
+                    "nama_kabkota": "Bintan"
+                },
+                {
+                    "id_kabkota": "2103",
+                    "nama_kabkota": "Natuna"
+                },
+                {
+                    "id_kabkota": "2104",
+                    "nama_kabkota": "Lingga"
+                },
+                {
+                    "id_kabkota": "2105",
+                    "nama_kabkota": "Kepulauan Anambas"
+                },
+                {
+                    "id_kabkota": "2171",
+                    "nama_kabkota": "Kota Batam"
+                },
+                {
+                    "id_kabkota": "2172",
+                    "nama_kabkota": "Kota Tanjung Pinang"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "DKI JAKARTA",
+            "id_provinsi": "31prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "3101",
+                    "nama_kabkota": "Kepulauan Seribu"
+                },
+                {
+                    "id_kabkota": "3171",
+                    "nama_kabkota": "Kota Jakarta Selatan"
+                },
+                {
+                    "id_kabkota": "3172",
+                    "nama_kabkota": "Kota Jakarta Timur"
+                },
+                {
+                    "id_kabkota": "3173",
+                    "nama_kabkota": "Kota Jakarta Pusat"
+                },
+                {
+                    "id_kabkota": "3174",
+                    "nama_kabkota": "Kota Jakarta Barat"
+                },
+                {
+                    "id_kabkota": "3175",
+                    "nama_kabkota": "Kota Jakarta Utara"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "JAWA BARAT",
+            "id_provinsi": "32prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "3201",
+                    "nama_kabkota": "Bogor"
+                },
+                {
+                    "id_kabkota": "3202",
+                    "nama_kabkota": "Sukabumi"
+                },
+                {
+                    "id_kabkota": "3203",
+                    "nama_kabkota": "Cianjur"
+                },
+                {
+                    "id_kabkota": "3204",
+                    "nama_kabkota": "Bandung"
+                },
+                {
+                    "id_kabkota": "3205",
+                    "nama_kabkota": "Garut"
+                },
+                {
+                    "id_kabkota": "3206",
+                    "nama_kabkota": "Tasikmalaya"
+                },
+                {
+                    "id_kabkota": "3207",
+                    "nama_kabkota": "Ciamis"
+                },
+                {
+                    "id_kabkota": "3208",
+                    "nama_kabkota": "Kuningan"
+                },
+                {
+                    "id_kabkota": "3209",
+                    "nama_kabkota": "Cirebon"
+                },
+                {
+                    "id_kabkota": "3210",
+                    "nama_kabkota": "Majalengka"
+                },
+                {
+                    "id_kabkota": "3211",
+                    "nama_kabkota": "Sumedang"
+                },
+                {
+                    "id_kabkota": "3212",
+                    "nama_kabkota": "Indramayu"
+                },
+                {
+                    "id_kabkota": "3213",
+                    "nama_kabkota": "Subang"
+                },
+                {
+                    "id_kabkota": "3214",
+                    "nama_kabkota": "Purwakarta"
+                },
+                {
+                    "id_kabkota": "3215",
+                    "nama_kabkota": "Karawang"
+                },
+                {
+                    "id_kabkota": "3216",
+                    "nama_kabkota": "Bekasi"
+                },
+                {
+                    "id_kabkota": "3217",
+                    "nama_kabkota": "Bandung Barat"
+                },
+                {
+                    "id_kabkota": "3218",
+                    "nama_kabkota": "Pangandaran"
+                },
+                {
+                    "id_kabkota": "3271",
+                    "nama_kabkota": "Kota Bogor"
+                },
+                {
+                    "id_kabkota": "3272",
+                    "nama_kabkota": "Kota Sukabumi"
+                },
+                {
+                    "id_kabkota": "3273",
+                    "nama_kabkota": "Kota Bandung"
+                },
+                {
+                    "id_kabkota": "3274",
+                    "nama_kabkota": "Kota Cirebon"
+                },
+                {
+                    "id_kabkota": "3275",
+                    "nama_kabkota": "Kota Bekasi"
+                },
+                {
+                    "id_kabkota": "3276",
+                    "nama_kabkota": "Kota Depok"
+                },
+                {
+                    "id_kabkota": "3277",
+                    "nama_kabkota": "Kota Cimahi"
+                },
+                {
+                    "id_kabkota": "3278",
+                    "nama_kabkota": "Kota Tasikmalaya"
+                },
+                {
+                    "id_kabkota": "3279",
+                    "nama_kabkota": "Kota Banjar"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "JAWA TENGAH",
+            "id_provinsi": "33prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "3301",
+                    "nama_kabkota": "Cilacap"
+                },
+                {
+                    "id_kabkota": "3302",
+                    "nama_kabkota": "Banyumas"
+                },
+                {
+                    "id_kabkota": "3303",
+                    "nama_kabkota": "Purbalingga"
+                },
+                {
+                    "id_kabkota": "3304",
+                    "nama_kabkota": "Banjarnegara"
+                },
+                {
+                    "id_kabkota": "3305",
+                    "nama_kabkota": "Kebumen"
+                },
+                {
+                    "id_kabkota": "3306",
+                    "nama_kabkota": "Purworejo"
+                },
+                {
+                    "id_kabkota": "3307",
+                    "nama_kabkota": "Wonosobo"
+                },
+                {
+                    "id_kabkota": "3308",
+                    "nama_kabkota": "Magelang"
+                },
+                {
+                    "id_kabkota": "3309",
+                    "nama_kabkota": "Boyolali"
+                },
+                {
+                    "id_kabkota": "3310",
+                    "nama_kabkota": "Klaten"
+                },
+                {
+                    "id_kabkota": "3311",
+                    "nama_kabkota": "Sukoharjo"
+                },
+                {
+                    "id_kabkota": "3312",
+                    "nama_kabkota": "Wonogiri"
+                },
+                {
+                    "id_kabkota": "3313",
+                    "nama_kabkota": "Karanganyar"
+                },
+                {
+                    "id_kabkota": "3314",
+                    "nama_kabkota": "Sragen"
+                },
+                {
+                    "id_kabkota": "3315",
+                    "nama_kabkota": "Grobogan"
+                },
+                {
+                    "id_kabkota": "3316",
+                    "nama_kabkota": "Blora"
+                },
+                {
+                    "id_kabkota": "3317",
+                    "nama_kabkota": "Rembang"
+                },
+                {
+                    "id_kabkota": "3318",
+                    "nama_kabkota": "Pati"
+                },
+                {
+                    "id_kabkota": "3319",
+                    "nama_kabkota": "Kudus"
+                },
+                {
+                    "id_kabkota": "3320",
+                    "nama_kabkota": "Jepara"
+                },
+                {
+                    "id_kabkota": "3321",
+                    "nama_kabkota": "Demak"
+                },
+                {
+                    "id_kabkota": "3322",
+                    "nama_kabkota": "Semarang"
+                },
+                {
+                    "id_kabkota": "3323",
+                    "nama_kabkota": "Temanggung"
+                },
+                {
+                    "id_kabkota": "3324",
+                    "nama_kabkota": "Kendal"
+                },
+                {
+                    "id_kabkota": "3325",
+                    "nama_kabkota": "Batang"
+                },
+                {
+                    "id_kabkota": "3326",
+                    "nama_kabkota": "Pekalongan"
+                },
+                {
+                    "id_kabkota": "3327",
+                    "nama_kabkota": "Pemalang"
+                },
+                {
+                    "id_kabkota": "3328",
+                    "nama_kabkota": "Tegal"
+                },
+                {
+                    "id_kabkota": "3329",
+                    "nama_kabkota": "Brebes"
+                },
+                {
+                    "id_kabkota": "3371",
+                    "nama_kabkota": "Kota Magelang"
+                },
+                {
+                    "id_kabkota": "3372",
+                    "nama_kabkota": "Kota Surakarta"
+                },
+                {
+                    "id_kabkota": "3373",
+                    "nama_kabkota": "Kota Salatiga"
+                },
+                {
+                    "id_kabkota": "3374",
+                    "nama_kabkota": "Kota Semarang"
+                },
+                {
+                    "id_kabkota": "3375",
+                    "nama_kabkota": "Kota Pekalongan"
+                },
+                {
+                    "id_kabkota": "3376",
+                    "nama_kabkota": "Kota Tegal"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "D I YOGYAKARTA",
+            "id_provinsi": "34prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "3401",
+                    "nama_kabkota": "Kulon Progo"
+                },
+                {
+                    "id_kabkota": "3402",
+                    "nama_kabkota": "Bantul"
+                },
+                {
+                    "id_kabkota": "3403",
+                    "nama_kabkota": "Gunung Kidul"
+                },
+                {
+                    "id_kabkota": "3404",
+                    "nama_kabkota": "Sleman"
+                },
+                {
+                    "id_kabkota": "3471",
+                    "nama_kabkota": "Kota Yogyakarta"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "JAWA TIMUR",
+            "id_provinsi": "35prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "3501",
+                    "nama_kabkota": "Pacitan"
+                },
+                {
+                    "id_kabkota": "3502",
+                    "nama_kabkota": "Ponorogo"
+                },
+                {
+                    "id_kabkota": "3503",
+                    "nama_kabkota": "Trenggalek"
+                },
+                {
+                    "id_kabkota": "3504",
+                    "nama_kabkota": "Tulungagung"
+                },
+                {
+                    "id_kabkota": "3505",
+                    "nama_kabkota": "Blitar"
+                },
+                {
+                    "id_kabkota": "3506",
+                    "nama_kabkota": "Kediri"
+                },
+                {
+                    "id_kabkota": "3507",
+                    "nama_kabkota": "Malang"
+                },
+                {
+                    "id_kabkota": "3508",
+                    "nama_kabkota": "Lumajang"
+                },
+                {
+                    "id_kabkota": "3509",
+                    "nama_kabkota": "Jember"
+                },
+                {
+                    "id_kabkota": "3510",
+                    "nama_kabkota": "Banyuwangi"
+                },
+                {
+                    "id_kabkota": "3511",
+                    "nama_kabkota": "Bondowoso"
+                },
+                {
+                    "id_kabkota": "3512",
+                    "nama_kabkota": "Situbondo"
+                },
+                {
+                    "id_kabkota": "3513",
+                    "nama_kabkota": "Probolinggo"
+                },
+                {
+                    "id_kabkota": "3514",
+                    "nama_kabkota": "Pasuruan"
+                },
+                {
+                    "id_kabkota": "3515",
+                    "nama_kabkota": "Sidoarjo"
+                },
+                {
+                    "id_kabkota": "3516",
+                    "nama_kabkota": "Mojokerto"
+                },
+                {
+                    "id_kabkota": "3517",
+                    "nama_kabkota": "Jombang"
+                },
+                {
+                    "id_kabkota": "3518",
+                    "nama_kabkota": "Nganjuk"
+                },
+                {
+                    "id_kabkota": "3519",
+                    "nama_kabkota": "Madiun"
+                },
+                {
+                    "id_kabkota": "3520",
+                    "nama_kabkota": "Magetan"
+                },
+                {
+                    "id_kabkota": "3521",
+                    "nama_kabkota": "Ngawi"
+                },
+                {
+                    "id_kabkota": "3522",
+                    "nama_kabkota": "Bojonegoro"
+                },
+                {
+                    "id_kabkota": "3523",
+                    "nama_kabkota": "Tuban"
+                },
+                {
+                    "id_kabkota": "3524",
+                    "nama_kabkota": "Lamongan"
+                },
+                {
+                    "id_kabkota": "3525",
+                    "nama_kabkota": "Gresik"
+                },
+                {
+                    "id_kabkota": "3526",
+                    "nama_kabkota": "Bangkalan"
+                },
+                {
+                    "id_kabkota": "3527",
+                    "nama_kabkota": "Sampang"
+                },
+                {
+                    "id_kabkota": "3528",
+                    "nama_kabkota": "Pamekasan"
+                },
+                {
+                    "id_kabkota": "3529",
+                    "nama_kabkota": "Sumenep"
+                },
+                {
+                    "id_kabkota": "3571",
+                    "nama_kabkota": "Kota Kediri"
+                },
+                {
+                    "id_kabkota": "3572",
+                    "nama_kabkota": "Kota Blitar"
+                },
+                {
+                    "id_kabkota": "3573",
+                    "nama_kabkota": "Kota Malang"
+                },
+                {
+                    "id_kabkota": "3574",
+                    "nama_kabkota": "Kota Probolinggo"
+                },
+                {
+                    "id_kabkota": "3575",
+                    "nama_kabkota": "Kota Pasuruan"
+                },
+                {
+                    "id_kabkota": "3576",
+                    "nama_kabkota": "Kota Mojokerto"
+                },
+                {
+                    "id_kabkota": "3577",
+                    "nama_kabkota": "Kota Madiun"
+                },
+                {
+                    "id_kabkota": "3578",
+                    "nama_kabkota": "Kota Surabaya"
+                },
+                {
+                    "id_kabkota": "3579",
+                    "nama_kabkota": "Kota Batu"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "BANTEN",
+            "id_provinsi": "36prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "3601",
+                    "nama_kabkota": "Pandeglang"
+                },
+                {
+                    "id_kabkota": "3602",
+                    "nama_kabkota": "Lebak"
+                },
+                {
+                    "id_kabkota": "3603",
+                    "nama_kabkota": "Tangerang"
+                },
+                {
+                    "id_kabkota": "3604",
+                    "nama_kabkota": "Serang"
+                },
+                {
+                    "id_kabkota": "3671",
+                    "nama_kabkota": "Kota Tangerang"
+                },
+                {
+                    "id_kabkota": "3672",
+                    "nama_kabkota": "Kota Cilegon"
+                },
+                {
+                    "id_kabkota": "3673",
+                    "nama_kabkota": "Kota Serang"
+                },
+                {
+                    "id_kabkota": "3674",
+                    "nama_kabkota": "Kota Tangerang Selatan"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "BALI",
+            "id_provinsi": "51prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "5101",
+                    "nama_kabkota": "Jembrana"
+                },
+                {
+                    "id_kabkota": "5102",
+                    "nama_kabkota": "Tabanan"
+                },
+                {
+                    "id_kabkota": "5103",
+                    "nama_kabkota": "Badung"
+                },
+                {
+                    "id_kabkota": "5104",
+                    "nama_kabkota": "Gianyar"
+                },
+                {
+                    "id_kabkota": "5105",
+                    "nama_kabkota": "Klungkung"
+                },
+                {
+                    "id_kabkota": "5106",
+                    "nama_kabkota": "Bangli"
+                },
+                {
+                    "id_kabkota": "5107",
+                    "nama_kabkota": "Karangasem"
+                },
+                {
+                    "id_kabkota": "5108",
+                    "nama_kabkota": "Buleleng"
+                },
+                {
+                    "id_kabkota": "5171",
+                    "nama_kabkota": "Kota Denpasar"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "NUSA TENGGARA BARAT",
+            "id_provinsi": "52prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "5201",
+                    "nama_kabkota": "Lombok Barat"
+                },
+                {
+                    "id_kabkota": "5202",
+                    "nama_kabkota": "Lombok Tengah"
+                },
+                {
+                    "id_kabkota": "5203",
+                    "nama_kabkota": "Lombok Timur"
+                },
+                {
+                    "id_kabkota": "5204",
+                    "nama_kabkota": "Sumbawa"
+                },
+                {
+                    "id_kabkota": "5205",
+                    "nama_kabkota": "Dompu"
+                },
+                {
+                    "id_kabkota": "5206",
+                    "nama_kabkota": "Bima"
+                },
+                {
+                    "id_kabkota": "5207",
+                    "nama_kabkota": "Sumbawa Barat"
+                },
+                {
+                    "id_kabkota": "5208",
+                    "nama_kabkota": "Lombok Utara"
+                },
+                {
+                    "id_kabkota": "5271",
+                    "nama_kabkota": "Kota Mataram"
+                },
+                {
+                    "id_kabkota": "5272",
+                    "nama_kabkota": "Kota Bima"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "NUSA TENGGARA TIMUR",
+            "id_provinsi": "53prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "5301",
+                    "nama_kabkota": "Sumba Barat"
+                },
+                {
+                    "id_kabkota": "5302",
+                    "nama_kabkota": "Sumba Timur"
+                },
+                {
+                    "id_kabkota": "5303",
+                    "nama_kabkota": "Kupang"
+                },
+                {
+                    "id_kabkota": "5304",
+                    "nama_kabkota": "Timor Tengah Selatan"
+                },
+                {
+                    "id_kabkota": "5305",
+                    "nama_kabkota": "Timor Tengah Utara"
+                },
+                {
+                    "id_kabkota": "5306",
+                    "nama_kabkota": "Belu"
+                },
+                {
+                    "id_kabkota": "5307",
+                    "nama_kabkota": "Alor"
+                },
+                {
+                    "id_kabkota": "5308",
+                    "nama_kabkota": "Lembata"
+                },
+                {
+                    "id_kabkota": "5309",
+                    "nama_kabkota": "Flores Timur"
+                },
+                {
+                    "id_kabkota": "5310",
+                    "nama_kabkota": "Sikka"
+                },
+                {
+                    "id_kabkota": "5311",
+                    "nama_kabkota": "Ende"
+                },
+                {
+                    "id_kabkota": "5312",
+                    "nama_kabkota": "Ngada"
+                },
+                {
+                    "id_kabkota": "5313",
+                    "nama_kabkota": "Manggarai"
+                },
+                {
+                    "id_kabkota": "5314",
+                    "nama_kabkota": "Rote Ndao"
+                },
+                {
+                    "id_kabkota": "5315",
+                    "nama_kabkota": "Manggarai Barat"
+                },
+                {
+                    "id_kabkota": "5316",
+                    "nama_kabkota": "Sumba Tengah"
+                },
+                {
+                    "id_kabkota": "5317",
+                    "nama_kabkota": "Sumba Barat Daya"
+                },
+                {
+                    "id_kabkota": "5318",
+                    "nama_kabkota": "Nagekeo"
+                },
+                {
+                    "id_kabkota": "5319",
+                    "nama_kabkota": "Manggarai Timur"
+                },
+                {
+                    "id_kabkota": "5320",
+                    "nama_kabkota": "Sabu Raijua"
+                },
+                {
+                    "id_kabkota": "5321",
+                    "nama_kabkota": "Malaka"
+                },
+                {
+                    "id_kabkota": "5371",
+                    "nama_kabkota": "Kota Kupang"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "KALIMANTAN BARAT",
+            "id_provinsi": "61prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "6101",
+                    "nama_kabkota": "Sambas"
+                },
+                {
+                    "id_kabkota": "6102",
+                    "nama_kabkota": "Bengkayang"
+                },
+                {
+                    "id_kabkota": "6103",
+                    "nama_kabkota": "Landak"
+                },
+                {
+                    "id_kabkota": "6104",
+                    "nama_kabkota": "Mempawah"
+                },
+                {
+                    "id_kabkota": "6105",
+                    "nama_kabkota": "Sanggau"
+                },
+                {
+                    "id_kabkota": "6106",
+                    "nama_kabkota": "Ketapang"
+                },
+                {
+                    "id_kabkota": "6107",
+                    "nama_kabkota": "Sintang"
+                },
+                {
+                    "id_kabkota": "6108",
+                    "nama_kabkota": "Kapuas Hulu"
+                },
+                {
+                    "id_kabkota": "6109",
+                    "nama_kabkota": "Sekadau"
+                },
+                {
+                    "id_kabkota": "6110",
+                    "nama_kabkota": "Melawi"
+                },
+                {
+                    "id_kabkota": "6111",
+                    "nama_kabkota": "Kayong Utara"
+                },
+                {
+                    "id_kabkota": "6112",
+                    "nama_kabkota": "Kubu Raya"
+                },
+                {
+                    "id_kabkota": "6171",
+                    "nama_kabkota": "Kota Pontianak"
+                },
+                {
+                    "id_kabkota": "6172",
+                    "nama_kabkota": "Kota Singkawang"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "KALIMANTAN TENGAH",
+            "id_provinsi": "62prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "6201",
+                    "nama_kabkota": "Kotawaringin Barat"
+                },
+                {
+                    "id_kabkota": "6202",
+                    "nama_kabkota": "Kotawaringin Timur"
+                },
+                {
+                    "id_kabkota": "6203",
+                    "nama_kabkota": "Kapuas"
+                },
+                {
+                    "id_kabkota": "6204",
+                    "nama_kabkota": "Barito Selatan"
+                },
+                {
+                    "id_kabkota": "6205",
+                    "nama_kabkota": "Barito Utara"
+                },
+                {
+                    "id_kabkota": "6206",
+                    "nama_kabkota": "Sukamara"
+                },
+                {
+                    "id_kabkota": "6207",
+                    "nama_kabkota": "Lamandau"
+                },
+                {
+                    "id_kabkota": "6208",
+                    "nama_kabkota": "Seruyan"
+                },
+                {
+                    "id_kabkota": "6209",
+                    "nama_kabkota": "Katingan"
+                },
+                {
+                    "id_kabkota": "6210",
+                    "nama_kabkota": "Pulang Pisau"
+                },
+                {
+                    "id_kabkota": "6211",
+                    "nama_kabkota": "Gunung Mas"
+                },
+                {
+                    "id_kabkota": "6212",
+                    "nama_kabkota": "Barito Timur"
+                },
+                {
+                    "id_kabkota": "6213",
+                    "nama_kabkota": "Murung Raya"
+                },
+                {
+                    "id_kabkota": "6271",
+                    "nama_kabkota": "Kota Palangka Raya"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "KALIMANTAN SELATAN",
+            "id_provinsi": "63prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "6301",
+                    "nama_kabkota": "Tanah Laut"
+                },
+                {
+                    "id_kabkota": "6302",
+                    "nama_kabkota": "Kota baru"
+                },
+                {
+                    "id_kabkota": "6303",
+                    "nama_kabkota": "Banjar"
+                },
+                {
+                    "id_kabkota": "6304",
+                    "nama_kabkota": "Barito Kuala"
+                },
+                {
+                    "id_kabkota": "6305",
+                    "nama_kabkota": "Tapin"
+                },
+                {
+                    "id_kabkota": "6306",
+                    "nama_kabkota": "Hulu Sungai Selatan"
+                },
+                {
+                    "id_kabkota": "6307",
+                    "nama_kabkota": "Hulu Sungai Tengah"
+                },
+                {
+                    "id_kabkota": "6308",
+                    "nama_kabkota": "Hulu Sungai Utara"
+                },
+                {
+                    "id_kabkota": "6309",
+                    "nama_kabkota": "Tabalong"
+                },
+                {
+                    "id_kabkota": "6310",
+                    "nama_kabkota": "Tanah Bumbu"
+                },
+                {
+                    "id_kabkota": "6311",
+                    "nama_kabkota": "Balangan"
+                },
+                {
+                    "id_kabkota": "6371",
+                    "nama_kabkota": "Kota Banjarmasin"
+                },
+                {
+                    "id_kabkota": "6372",
+                    "nama_kabkota": "Kota Banjar baru"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "KALIMANTAN TIMUR",
+            "id_provinsi": "64prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "6401",
+                    "nama_kabkota": "Paser"
+                },
+                {
+                    "id_kabkota": "6402",
+                    "nama_kabkota": "Kutai Barat"
+                },
+                {
+                    "id_kabkota": "6403",
+                    "nama_kabkota": "Kutai Kartanegara"
+                },
+                {
+                    "id_kabkota": "6404",
+                    "nama_kabkota": "Kutai Timur"
+                },
+                {
+                    "id_kabkota": "6405",
+                    "nama_kabkota": "Berau"
+                },
+                {
+                    "id_kabkota": "6409",
+                    "nama_kabkota": "Penajam Paser Utara"
+                },
+                {
+                    "id_kabkota": "6411",
+                    "nama_kabkota": "Mahakam Hulu"
+                },
+                {
+                    "id_kabkota": "6471",
+                    "nama_kabkota": "Kota Balikpapan"
+                },
+                {
+                    "id_kabkota": "6472",
+                    "nama_kabkota": "Kota Samarinda"
+                },
+                {
+                    "id_kabkota": "6474",
+                    "nama_kabkota": "Kota Bontang"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "KALIMANTAN UTARA",
+            "id_provinsi": "65prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "6501",
+                    "nama_kabkota": "Malinau"
+                },
+                {
+                    "id_kabkota": "6502",
+                    "nama_kabkota": "Bulungan"
+                },
+                {
+                    "id_kabkota": "6503",
+                    "nama_kabkota": "Tana Tidung"
+                },
+                {
+                    "id_kabkota": "6504",
+                    "nama_kabkota": "Nunukan"
+                },
+                {
+                    "id_kabkota": "6571",
+                    "nama_kabkota": "Kota Tarakan"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "SULAWESI UTARA",
+            "id_provinsi": "71prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "7101",
+                    "nama_kabkota": "Bolaang Mongondow"
+                },
+                {
+                    "id_kabkota": "7102",
+                    "nama_kabkota": "Minahasa"
+                },
+                {
+                    "id_kabkota": "7103",
+                    "nama_kabkota": "Kepulauan Sangihe"
+                },
+                {
+                    "id_kabkota": "7104",
+                    "nama_kabkota": "Kepulauan Talaud"
+                },
+                {
+                    "id_kabkota": "7105",
+                    "nama_kabkota": "Minahasa Selatan"
+                },
+                {
+                    "id_kabkota": "7106",
+                    "nama_kabkota": "Minahasa Utara"
+                },
+                {
+                    "id_kabkota": "7107",
+                    "nama_kabkota": "Bolaang Mongondow Utara"
+                },
+                {
+                    "id_kabkota": "7108",
+                    "nama_kabkota": "Kepulauan Siau Tagulandang Biaro"
+                },
+                {
+                    "id_kabkota": "7109",
+                    "nama_kabkota": "Minahasa Tenggara"
+                },
+                {
+                    "id_kabkota": "7110",
+                    "nama_kabkota": "Bolaang Mongondow Selatan"
+                },
+                {
+                    "id_kabkota": "7111",
+                    "nama_kabkota": "Bolaang Mongondow Timur"
+                },
+                {
+                    "id_kabkota": "7171",
+                    "nama_kabkota": "Kota Manado"
+                },
+                {
+                    "id_kabkota": "7172",
+                    "nama_kabkota": "Kota Bitung"
+                },
+                {
+                    "id_kabkota": "7173",
+                    "nama_kabkota": "Kota Tomohon"
+                },
+                {
+                    "id_kabkota": "7174",
+                    "nama_kabkota": "Kota Kotamobagu"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "SULAWESI TENGAH",
+            "id_provinsi": "72prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "7201",
+                    "nama_kabkota": "Banggai Kepulauan"
+                },
+                {
+                    "id_kabkota": "7202",
+                    "nama_kabkota": "Banggai"
+                },
+                {
+                    "id_kabkota": "7203",
+                    "nama_kabkota": "Morowali"
+                },
+                {
+                    "id_kabkota": "7204",
+                    "nama_kabkota": "Poso"
+                },
+                {
+                    "id_kabkota": "7205",
+                    "nama_kabkota": "Donggala"
+                },
+                {
+                    "id_kabkota": "7206",
+                    "nama_kabkota": "Toli-Toli"
+                },
+                {
+                    "id_kabkota": "7207",
+                    "nama_kabkota": "Buol"
+                },
+                {
+                    "id_kabkota": "7208",
+                    "nama_kabkota": "Parigi Moutong"
+                },
+                {
+                    "id_kabkota": "7209",
+                    "nama_kabkota": "Tojo Una-Una"
+                },
+                {
+                    "id_kabkota": "7210",
+                    "nama_kabkota": "Sigi"
+                },
+                {
+                    "id_kabkota": "7211",
+                    "nama_kabkota": "Banggai Laut"
+                },
+                {
+                    "id_kabkota": "7212",
+                    "nama_kabkota": "Morowali Utara"
+                },
+                {
+                    "id_kabkota": "7271",
+                    "nama_kabkota": "Kota Palu"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "SULAWESI SELATAN",
+            "id_provinsi": "73prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "7301",
+                    "nama_kabkota": "Kepulauan Selayar"
+                },
+                {
+                    "id_kabkota": "7302",
+                    "nama_kabkota": "Bulukumba"
+                },
+                {
+                    "id_kabkota": "7303",
+                    "nama_kabkota": "Bantaeng"
+                },
+                {
+                    "id_kabkota": "7304",
+                    "nama_kabkota": "Jeneponto"
+                },
+                {
+                    "id_kabkota": "7305",
+                    "nama_kabkota": "Takalar"
+                },
+                {
+                    "id_kabkota": "7306",
+                    "nama_kabkota": "Gowa"
+                },
+                {
+                    "id_kabkota": "7307",
+                    "nama_kabkota": "Sinjai"
+                },
+                {
+                    "id_kabkota": "7308",
+                    "nama_kabkota": "Bone"
+                },
+                {
+                    "id_kabkota": "7309",
+                    "nama_kabkota": "Maros"
+                },
+                {
+                    "id_kabkota": "7310",
+                    "nama_kabkota": "Pangkajene Kepulauan"
+                },
+                {
+                    "id_kabkota": "7311",
+                    "nama_kabkota": "Barru"
+                },
+                {
+                    "id_kabkota": "7312",
+                    "nama_kabkota": "Soppeng"
+                },
+                {
+                    "id_kabkota": "7313",
+                    "nama_kabkota": "Wajo"
+                },
+                {
+                    "id_kabkota": "7314",
+                    "nama_kabkota": "Sidenreng Rappang"
+                },
+                {
+                    "id_kabkota": "7315",
+                    "nama_kabkota": "Pinrang"
+                },
+                {
+                    "id_kabkota": "7316",
+                    "nama_kabkota": "Enrekang"
+                },
+                {
+                    "id_kabkota": "7317",
+                    "nama_kabkota": "Luwu"
+                },
+                {
+                    "id_kabkota": "7318",
+                    "nama_kabkota": "Tana Toraja"
+                },
+                {
+                    "id_kabkota": "7322",
+                    "nama_kabkota": "Luwu Utara"
+                },
+                {
+                    "id_kabkota": "7325",
+                    "nama_kabkota": "Luwu Timur"
+                },
+                {
+                    "id_kabkota": "7326",
+                    "nama_kabkota": "Toraja Utara"
+                },
+                {
+                    "id_kabkota": "7371",
+                    "nama_kabkota": "Kota Makassar"
+                },
+                {
+                    "id_kabkota": "7372",
+                    "nama_kabkota": "Kota Pare-pare"
+                },
+                {
+                    "id_kabkota": "7373",
+                    "nama_kabkota": "Kota Palopo"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "SULAWESI TENGGARA",
+            "id_provinsi": "74prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "7401",
+                    "nama_kabkota": "Buton"
+                },
+                {
+                    "id_kabkota": "7402",
+                    "nama_kabkota": "Muna"
+                },
+                {
+                    "id_kabkota": "7403",
+                    "nama_kabkota": "Konawe"
+                },
+                {
+                    "id_kabkota": "7404",
+                    "nama_kabkota": "Kolaka"
+                },
+                {
+                    "id_kabkota": "7405",
+                    "nama_kabkota": "Konawe Selatan"
+                },
+                {
+                    "id_kabkota": "7406",
+                    "nama_kabkota": "Bombana"
+                },
+                {
+                    "id_kabkota": "7407",
+                    "nama_kabkota": "Wakatobi"
+                },
+                {
+                    "id_kabkota": "7408",
+                    "nama_kabkota": "Kolaka Utara"
+                },
+                {
+                    "id_kabkota": "7409",
+                    "nama_kabkota": "Buton Utara"
+                },
+                {
+                    "id_kabkota": "7410",
+                    "nama_kabkota": "Konawe Utara"
+                },
+                {
+                    "id_kabkota": "7411",
+                    "nama_kabkota": "Kolaka Timur"
+                },
+                {
+                    "id_kabkota": "7412",
+                    "nama_kabkota": "Konawe Kepulauan"
+                },
+                {
+                    "id_kabkota": "7413",
+                    "nama_kabkota": "Muna Barat"
+                },
+                {
+                    "id_kabkota": "7414",
+                    "nama_kabkota": "Buton Tengah"
+                },
+                {
+                    "id_kabkota": "7415",
+                    "nama_kabkota": "Buton Selatan"
+                },
+                {
+                    "id_kabkota": "7471",
+                    "nama_kabkota": "Kota Kendari"
+                },
+                {
+                    "id_kabkota": "7472",
+                    "nama_kabkota": "Kota Bau-Bau"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "GORONTALO",
+            "id_provinsi": "75prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "7501",
+                    "nama_kabkota": "Boalemo"
+                },
+                {
+                    "id_kabkota": "7502",
+                    "nama_kabkota": "Gorontalo"
+                },
+                {
+                    "id_kabkota": "7503",
+                    "nama_kabkota": "Pohuwato"
+                },
+                {
+                    "id_kabkota": "7504",
+                    "nama_kabkota": "Bone Bolango"
+                },
+                {
+                    "id_kabkota": "7505",
+                    "nama_kabkota": "Gorontalo Utara"
+                },
+                {
+                    "id_kabkota": "7571",
+                    "nama_kabkota": "Kota Gorontalo"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "SULAWESI BARAT",
+            "id_provinsi": "76prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "7602",
+                    "nama_kabkota": "Polewali Mandar"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "MALUKU",
+            "id_provinsi": "81prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "8101",
+                    "nama_kabkota": "Maluku Tenggara Barat"
+                },
+                {
+                    "id_kabkota": "8102",
+                    "nama_kabkota": "Maluku Tenggara"
+                },
+                {
+                    "id_kabkota": "8103",
+                    "nama_kabkota": "Maluku Tengah"
+                },
+                {
+                    "id_kabkota": "8104",
+                    "nama_kabkota": "Buru"
+                },
+                {
+                    "id_kabkota": "8105",
+                    "nama_kabkota": "Kepulauan Aru"
+                },
+                {
+                    "id_kabkota": "8106",
+                    "nama_kabkota": "Seram Bagian Barat"
+                },
+                {
+                    "id_kabkota": "8107",
+                    "nama_kabkota": "Seram Bagian Timur"
+                },
+                {
+                    "id_kabkota": "8108",
+                    "nama_kabkota": "Maluku Barat Daya"
+                },
+                {
+                    "id_kabkota": "8109",
+                    "nama_kabkota": "Buru Selatan"
+                },
+                {
+                    "id_kabkota": "8171",
+                    "nama_kabkota": "Kota Ambon"
+                },
+                {
+                    "id_kabkota": "8172",
+                    "nama_kabkota": "Kota Tual"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "MALUKU UTARA",
+            "id_provinsi": "82prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "8201",
+                    "nama_kabkota": "Halmahera Barat"
+                },
+                {
+                    "id_kabkota": "8202",
+                    "nama_kabkota": "Halmahera Tengah"
+                },
+                {
+                    "id_kabkota": "8203",
+                    "nama_kabkota": "Kepulauan Sula"
+                },
+                {
+                    "id_kabkota": "8204",
+                    "nama_kabkota": "Halmahera Selatan"
+                },
+                {
+                    "id_kabkota": "8205",
+                    "nama_kabkota": "Halmahera Utara"
+                },
+                {
+                    "id_kabkota": "8206",
+                    "nama_kabkota": "Halmahera Timur"
+                },
+                {
+                    "id_kabkota": "8207",
+                    "nama_kabkota": "Pulau Morotai"
+                },
+                {
+                    "id_kabkota": "8208",
+                    "nama_kabkota": "Pulau Taliabu"
+                },
+                {
+                    "id_kabkota": "8271",
+                    "nama_kabkota": "Kota Ternate"
+                },
+                {
+                    "id_kabkota": "8272",
+                    "nama_kabkota": "Kota Tidore Kepulauan"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "PAPUA BARAT",
+            "id_provinsi": "91prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "7601",
+                    "nama_kabkota": "Majene"
+                },
+                {
+                    "id_kabkota": "7603",
+                    "nama_kabkota": "Mamasa"
+                },
+                {
+                    "id_kabkota": "7604",
+                    "nama_kabkota": "Mamuju"
+                },
+                {
+                    "id_kabkota": "7605",
+                    "nama_kabkota": "Pasangkayu"
+                },
+                {
+                    "id_kabkota": "7606",
+                    "nama_kabkota": "Mamuju Tengah"
+                },
+                {
+                    "id_kabkota": "9101",
+                    "nama_kabkota": "Fakfak"
+                },
+                {
+                    "id_kabkota": "9102",
+                    "nama_kabkota": "Kaimana"
+                },
+                {
+                    "id_kabkota": "9103",
+                    "nama_kabkota": "Teluk Wondama"
+                },
+                {
+                    "id_kabkota": "9104",
+                    "nama_kabkota": "Teluk Bintuni"
+                },
+                {
+                    "id_kabkota": "9105",
+                    "nama_kabkota": "Manokwari"
+                },
+                {
+                    "id_kabkota": "9106",
+                    "nama_kabkota": "Sorong Selatan"
+                },
+                {
+                    "id_kabkota": "9107",
+                    "nama_kabkota": "Sorong"
+                },
+                {
+                    "id_kabkota": "9108",
+                    "nama_kabkota": "Raja Ampat"
+                },
+                {
+                    "id_kabkota": "9109",
+                    "nama_kabkota": "Tambrauw"
+                },
+                {
+                    "id_kabkota": "9110",
+                    "nama_kabkota": "Maybrat"
+                },
+                {
+                    "id_kabkota": "9111",
+                    "nama_kabkota": "Manokwari Selatan"
+                },
+                {
+                    "id_kabkota": "9112",
+                    "nama_kabkota": "Pegunungan Arfak"
+                },
+                {
+                    "id_kabkota": "9171",
+                    "nama_kabkota": "Kota Sorong"
+                }
+            ]
+        },
+        {
+            "nama_provinsi": "PAPUA",
+            "id_provinsi": "92prop",
+            "data_kabkota": [
+                {
+                    "id_kabkota": "9201",
+                    "nama_kabkota": "Merauke"
+                },
+                {
+                    "id_kabkota": "9202",
+                    "nama_kabkota": "Jayawijaya"
+                },
+                {
+                    "id_kabkota": "9203",
+                    "nama_kabkota": "Jayapura"
+                },
+                {
+                    "id_kabkota": "9204",
+                    "nama_kabkota": "Nabire"
+                },
+                {
+                    "id_kabkota": "9205",
+                    "nama_kabkota": "Biak Numfor"
+                },
+                {
+                    "id_kabkota": "9208",
+                    "nama_kabkota": "Kepulauan Yapen"
+                },
+                {
+                    "id_kabkota": "9210",
+                    "nama_kabkota": "Paniai"
+                },
+                {
+                    "id_kabkota": "9211",
+                    "nama_kabkota": "Puncak Jaya"
+                },
+                {
+                    "id_kabkota": "9212",
+                    "nama_kabkota": "Mimika"
+                },
+                {
+                    "id_kabkota": "9213",
+                    "nama_kabkota": "Boven Digoel"
+                },
+                {
+                    "id_kabkota": "9214",
+                    "nama_kabkota": "Mappi"
+                },
+                {
+                    "id_kabkota": "9215",
+                    "nama_kabkota": "Asmat"
+                },
+                {
+                    "id_kabkota": "9216",
+                    "nama_kabkota": "Yahukimo"
+                },
+                {
+                    "id_kabkota": "9217",
+                    "nama_kabkota": "Pegunungan Bintang"
+                },
+                {
+                    "id_kabkota": "9218",
+                    "nama_kabkota": "Tolikara"
+                },
+                {
+                    "id_kabkota": "9219",
+                    "nama_kabkota": "Sarmi"
+                },
+                {
+                    "id_kabkota": "9220",
+                    "nama_kabkota": "Keerom"
+                },
+                {
+                    "id_kabkota": "9226",
+                    "nama_kabkota": "Waropen"
+                },
+                {
+                    "id_kabkota": "9227",
+                    "nama_kabkota": "Supiori"
+                },
+                {
+                    "id_kabkota": "9228",
+                    "nama_kabkota": "Mamberamo Raya"
+                },
+                {
+                    "id_kabkota": "9229",
+                    "nama_kabkota": "Nduga"
+                },
+                {
+                    "id_kabkota": "9230",
+                    "nama_kabkota": "Lanny Jaya"
+                },
+                {
+                    "id_kabkota": "9231",
+                    "nama_kabkota": "Mamberamo Tengah"
+                },
+                {
+                    "id_kabkota": "9232",
+                    "nama_kabkota": "Yalimo"
+                },
+                {
+                    "id_kabkota": "9233",
+                    "nama_kabkota": "Puncak"
+                },
+                {
+                    "id_kabkota": "9234",
+                    "nama_kabkota": "Dogiyai"
+                },
+                {
+                    "id_kabkota": "9235",
+                    "nama_kabkota": "Intan Jaya"
+                },
+                {
+                    "id_kabkota": "9236",
+                    "nama_kabkota": "Deiyai"
+                },
+                {
+                    "id_kabkota": "9271",
+                    "nama_kabkota": "Kota Jayapura"
+                }
+            ]
+        }
+    ]
+}
