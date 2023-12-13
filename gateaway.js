@@ -6,12 +6,13 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const req = require('express/lib/request');
 const res = require('express/lib/response');
-const { isRegExp } = require('util/types');
 const { parse } = require('path');
-
+const cors = require('cors');
 const app = express();
 
-const port = 3000;
+const port = 3003;
+
+app.use(cors());
 
 app.listen(port, () => {
     console.log(`listening at http://localhost:${port}`)
@@ -54,7 +55,7 @@ app.get('/rs/:id_provinsi/:id_kabkota?', async(req, res) => {
     let count = 0;
 
     if ($('.col-md-10.offset-md-1.mb-2').find('span').text().trim() === 'data tidak ditemukan') {
-        return res.status(404).send({ "status": "error, id provinsi or id kabkota not valid", "count": 0, "results": null })
+        return res.send({ "status": "error, id provinsi or id kabkota not valid", "count": 0, "results": null })
     }
 
     if ($('.cardRS').length != 0) {
@@ -64,7 +65,12 @@ app.get('/rs/:id_provinsi/:id_kabkota?', async(req, res) => {
             let alamat_rs = $(data).find('p').eq(0).text().trim();
             let hotline_rs = $(data).find('span').text();
             let bed_igd = ($(data).find('p').find('b').text().length != 0) ? parseInt($(data).find('p').find('b').text()) : $(data).find('p').find('b').text().length;
-            let id = new URL($(data).find('a').attr('href'));
+            let id;
+            if ($(data).find('a').length === 2) {
+                id = new URL($(data).find('a').eq(1).attr('href'));
+            } else {
+                id = new URL($(data).find('a').eq(0).attr('href'));
+            }
             let id_rs = parseInt(id.searchParams.get('kode_rs'));
 
             rumah_sakits.push({
